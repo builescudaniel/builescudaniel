@@ -10,7 +10,7 @@
 
 ### Languages, Frameworks, and Tools 🛠️
 
-![Django](https://path/to/django-logo.png)
+![Django](https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=avif&w=512)
 ![Flask](https://path/to/flask-logo.png)
 ![React](https://path/to/react-logo.png)
 ![Swift](https://path/to/swift-logo.png)
