@@ -19,20 +19,15 @@
 ![Bootstrap](https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-6-1175203.png?f=avif&w=100)
 ![Shopify](https://cdn.iconscout.com/icon/free/png-512/free-shopify-6-675778.png?f=avif&w=100)
 
-### Blog Posts 📋
+### My Blogs 📋
 - [Learn Python](https://danielbuilescu.com/blogs/learn-python)
 - [Learn Shopify](https://danielbuilescu.com/blogs/learn-shopify)
 
 ### Medium Posts 👨‍🎓
-- [Medium Post 1](https://medium.com/your-medium-post-url)
-- [Medium Post 2](https://medium.com/your-medium-post-url)
-- [Medium Post 3](https://medium.com/your-medium-post-url)
-
-### YouTube Videos 🕺
-- [YouTube Video 1](https://www.youtube.com/watch?v=example-video-url)
-- [YouTube Video 2](https://www.youtube.com/watch?v=example-video-url)
-- [YouTube Video 3](https://www.youtube.com/watch?v=example-video-url)
+- [Python for Cybersecurity: Essential Tools and Techniques for Ethical Hacking](https://medium.com/learn-python-step-by-step/python-for-cybersecurity-essential-tools-and-techniques-for-ethical-hacking-1e5abfa5255b)
+- [Advanced Python: Exploring Python’s Lesser-Known Features and Tricks](https://medium.com/learn-python-step-by-step/advanced-python-exploring-pythons-lesser-known-features-and-tricks-ecb09386bad1)
+- [Python and Machine Learning: A Beginner’s Guide to Scikit-Learn and TensorFlow](https://medium.com/learn-python-step-by-step/python-and-machine-learning-a-beginners-guide-to-scikit-learn-and-tensorflow-17c351afe044)
 
 ### Connect, Follow, Subscribe ❤️
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
-- [YouTube](https://www.youtube.com/channel/your-youtube-channel-url)
+- [LinkedIn](https://www.linkedin.com/in/builescu-daniel/)
+- [YouTube](https://www.youtube.com/channel/UCFj3jbN28bsGz9nr2ipupdg)
