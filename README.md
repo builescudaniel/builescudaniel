@@ -11,13 +11,12 @@
 ### Languages, Frameworks, and Tools 🛠️
 
 ![Django](https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=avif&w=100)
-![Flask](https://path/to/flask-logo.png)
-![React](https://path/to/react-logo.png)
-![Swift](https://path/to/swift-logo.png)
-![HTML](https://path/to/html-logo.png)
-![JavaScript](https://path/to/js-logo.png)
-![Bootstrap](https://path/to/bootstrap-logo.png)
-![DevOps](https://path/to/devops-logo.png)
+![Flask](https://cdn.iconscout.com/icon/free/png-512/free-flask-51-285137.png?f=avif&w=100)
+![React](https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png?f=avif&w=100)
+![Swift](https://cdn.iconscout.com/icon/free/png-512/free-swift-21-1175088.png?f=avif&w=100)
+![HTML](https://cdn.iconscout.com/icon/free/png-512/free-html5-2474805-2056091.png?f=avif&w=100)
+![JavaScript](https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png?f=avif&w=100)
+![Bootstrap](https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-6-1175203.png?f=avif&w=100)
 
 ### Blog Posts 📋
 - [Learn Python](https://danielbuilescu.com/blogs/learn-python)
