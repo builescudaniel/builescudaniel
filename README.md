@@ -17,6 +17,7 @@
 ![HTML](https://cdn.iconscout.com/icon/free/png-512/free-html5-2474805-2056091.png?f=avif&w=100)
 ![JavaScript](https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png?f=avif&w=100)
 ![Bootstrap](https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-6-1175203.png?f=avif&w=100)
+![Shopify](https://cdn.iconscout.com/icon/free/png-512/free-shopify-6-675778.png?f=avif&w=100)
 
 ### Blog Posts 📋
 - [Learn Python](https://danielbuilescu.com/blogs/learn-python)
