@@ -20,7 +20,7 @@
 ![Shopify](https://cdn.iconscout.com/icon/free/png-512/free-shopify-6-675778.png?f=avif&w=100)
 
 ### My Blogs 📋
-- [Learn Python](https://danielbuilescu.com/blogs/learn-python)
+- [Learn Python](https://danielbuilescu.com/blogs/learn-python) (Over 10,000 visitors per week)
 - [Learn Shopify](https://danielbuilescu.com/blogs/learn-shopify)
 
 ### Medium Posts 👨‍🎓
