@@ -16,5 +16,5 @@
 ### 📋 My Medium Blog
 - [Learn Python | Swift | Shopify | React](https://medium.com/@danielbuilescu) - Garnering over 100,000 views/month 🚀
 
-### ❤️ Connect, Follow, Subscribe
+### ❤️ Connect & Follow
 - [![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/builescu-daniel/)
