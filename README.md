@@ -19,14 +19,8 @@
 ![Bootstrap](https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-6-1175203.png?f=avif&w=100)
 ![Shopify](https://cdn.iconscout.com/icon/free/png-512/free-shopify-6-675778.png?f=avif&w=100)
 
-### My Blogs 📋
-- [Learn Python](https://danielbuilescu.com/blogs/learn-python) (Over 10,000 visitors per week)
-- [Learn Shopify](https://danielbuilescu.com/blogs/learn-shopify)
-
-### Medium Posts 👨‍🎓
-- [Python for Cybersecurity: Essential Tools and Techniques for Ethical Hacking](https://medium.com/learn-python-step-by-step/python-for-cybersecurity-essential-tools-and-techniques-for-ethical-hacking-1e5abfa5255b)
-- [Advanced Python: Exploring Python’s Lesser-Known Features and Tricks](https://medium.com/learn-python-step-by-step/advanced-python-exploring-pythons-lesser-known-features-and-tricks-ecb09386bad1)
-- [Python and Machine Learning: A Beginner’s Guide to Scikit-Learn and TensorFlow](https://medium.com/learn-python-step-by-step/python-and-machine-learning-a-beginners-guide-to-scikit-learn-and-tensorflow-17c351afe044)
+### My Medium Blog 📋
+- [Learn Python | Swift | Shopify | React](https://danielbuilescu.com/blogs/learn-python](https://medium.com/@danielbuilescu)) (Over 100,000 views per 30 days)
 
 ### Connect, Follow, Subscribe ❤️
 - [LinkedIn](https://www.linkedin.com/in/builescu-daniel/)
